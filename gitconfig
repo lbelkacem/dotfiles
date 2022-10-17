@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lamia.belkacem86@gmail.com
+	name = Lamia Belkacem
